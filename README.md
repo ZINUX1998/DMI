@@ -1,2 +1,2 @@
-# DyCSC
-Code implementation and some changes to the DyCSC paper
+# DMI
+Code implementation and some changes to the DMI paper
