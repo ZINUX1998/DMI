@@ -1,5 +1,5 @@
 # DMI
-Code implementation and some changes to the DMI paper
+This is the PyTorch implementation for DMI proposed in paper "Learning Disentangled Multi-intent Representations for Scalable Recommendation"
 ### 1. Running environment
 
 We develope our codes in the following environment:
